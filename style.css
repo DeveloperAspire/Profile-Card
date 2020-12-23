@@ -77,7 +77,6 @@ body{
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-around;
-    align-content: flex-end;
     border-top:  0.7px solid var(--Dark-gray);
     margin-top: 4rem;
     padding: 2rem;
