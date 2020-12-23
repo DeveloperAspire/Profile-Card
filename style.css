@@ -59,7 +59,7 @@ body{
 }
 
 .name{
-    transform: translateY(100%);
+    transform: translateY(120%);
 }
 .name span{
     font-size:18px;
